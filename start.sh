@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 
 #请修改为自己的UUID
-export UUID=b433d149-9fb0-4ed4-861d-41b0c0b6b80c
+export UUID=a15641f0-0335-4840-906e-99072893f7e6
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=haitao.world68.com/amazon-co-jp.html
